@@ -3,7 +3,7 @@
 # install
 
 ```
-git clone https://github.com/mitsuruog/what-mqtt.git
+git clone https://github.com/animeshembedded/mqtt_demo
 cd what-mqtt
 npm install
 npm run start
