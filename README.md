@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/animeshembedded/mqtt_demo
-cd what-mqtt
+cd mqtt_demo
 npm install
 npm run start
 ```
